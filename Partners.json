@@ -1,5 +1,20 @@
 [
   {
+    "name": "Phish.gg",
+    "image": "https://raw.githubusercontent.com/TheDARTProject/Website-Images/refs/heads/main/partners/PHISH.png",
+    "url": "https://docs.phish.gg/"
+  },
+  {
+    "name": "FishFish",
+    "image": "https://raw.githubusercontent.com/TheDARTProject/Website-Images/refs/heads/main/partners/FISHFISH.png",
+    "url": "https://fishfish.gg/"
+  },
+  {
+    "name": "Blacklister",
+    "image": "https://raw.githubusercontent.com/TheDARTProject/Website-Images/refs/heads/main/partners/BLACKLISTER.png",
+    "url": "https://blacklister.xyz/"
+  },
+  {
     "name": "Project CW",
     "image": "https://raw.githubusercontent.com/TheDARTProject/Website-Images/refs/heads/main/partners/PROJECT_CW.png",
     "url": "https://discord.com/invite/projectcw"
