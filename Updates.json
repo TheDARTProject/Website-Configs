@@ -5,13 +5,17 @@
       "date": "10.04.2025",
       "added": [
         "8 New Cases: Added 8 new cases from 4 servers",
-        "2 New Tools: Added 2 new tools to improve the databases."
+        "2 New Tools: Added 2 new tools to improve the databases.",
+        "Unified Tools: Added The first unified tools that combine multiple tools into one, these are in the BETA stage at the moment."
       ],
       "updated": [
         "Home Page: Updated the design of the home page.",
-        "Footer: Updated the design of the footer on all pages."
+        "Footer: Updated the design of the footer on all pages.",
+        "Inspector Tool: Updated inspector tool to automatically create inspection reports and update the Database-Files README file."
       ],
-      "removed": [],
+      "removed": [
+        "Temp Tool: Removed the temp tool as its no longer needed."
+      ],
       "notes": ""
     },
     {
