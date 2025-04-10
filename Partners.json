@@ -15,6 +15,11 @@
     "url": "https://blacklister.xyz/"
   },
   {
+    "name": "phish.directory",
+    "image": "https://raw.githubusercontent.com/TheDARTProject/Website-Images/refs/heads/main/partners/PHISHDIRECTORY.png",
+    "url": "https://www.phish.directory/"
+  },
+  {
     "name": "Project CW",
     "image": "https://raw.githubusercontent.com/TheDARTProject/Website-Images/refs/heads/main/partners/PROJECT_CW.png",
     "url": "https://discord.com/invite/projectcw"
