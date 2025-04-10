@@ -6,11 +6,14 @@
       "added": [
         "8 New Cases: Added 8 new cases from 4 servers",
         "2 New Tools: Added 2 new tools to improve the databases.",
+        "Global Domain Database: Added new dataset created by combining the data from the FishFish API, DSP Project and the DART Project.",
         "Unified Tools: Added The first unified tools that combine multiple tools into one, these are in the BETA stage at the moment."
       ],
       "updated": [
         "Home Page: Updated the design of the home page.",
+        "Tool names: Updated names of certain tools to show that they are now integrated in one of the two unified tools.",
         "Footer: Updated the design of the footer on all pages.",
+        "Invite Validator: Updated Updated Invite Validator tool to be aware of duplicate invite URLs.",
         "Inspector Tool: Updated inspector tool to automatically create inspection reports and update the Database-Files README file."
       ],
       "removed": [
