@@ -2,6 +2,22 @@
 
   "updates": [
     {
+      "date": "11.04.2025",
+      "added": [
+        "1 New Cases: Added 1 new cases from 1 servers"
+      ],
+      "updated": [
+        "Servers database: Updated the structure of the discord servers database.",
+        "Data Filtering Tool: Updated the tool to work with the new structure mentioned above.",
+        "Servers database: Updated the structure of the discord servers database.",
+        "Home Stats: Updated the stat card on the home page to reflect more statistics."
+      ],
+      "removed": [
+        "Old Test Datasets: Removed redundant datasets that were used for testing."
+      ],
+      "notes": ""
+    },
+    {
       "date": "10.04.2025",
       "added": [
         "18 New Cases: Added 18 new cases from 4 servers",
