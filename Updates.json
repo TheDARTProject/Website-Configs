@@ -4,7 +4,8 @@
     {
       "date": "11.04.2025",
       "added": [
-        "1 New Cases: Added 1 new cases from 1 servers"
+        "1 New Cases: Added 1 new cases from 1 servers",
+        "Domain Analytics: Added new Domain Analytics page based on the existing Dashboard page, this one being dedicated for URLs"
       ],
       "updated": [
         "Servers database: Updated the structure of the discord servers database.",
@@ -13,7 +14,8 @@
         "Home Stats: Updated the stat card on the home page to reflect more statistics."
       ],
       "removed": [
-        "Old Test Datasets: Removed redundant datasets that were used for testing."
+        "Old Test Datasets: Removed redundant datasets that were used for testing.",
+        "Site Navigation: Removed site navigation section from the context menu."
       ],
       "notes": ""
     },
