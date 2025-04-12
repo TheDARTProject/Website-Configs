@@ -2,6 +2,21 @@
 
   "updates": [
     {
+      "date": "12.04.2025",
+      "added": [
+        "8 New Case: Added 8 new cases from 2 server"
+      ],
+      "updated": [
+        "Sidebar Structure: Updated structure to be easier to understand.",
+        "Footer Structure: Updated structure to be easier to understand."
+      ],
+      "removed": [
+        "Roadmap Page: Removed redundant roadmap page, this will be transitioned to github projects.",
+        "Site Navigation: Removed site navigation section from the context menu."
+      ],
+      "notes": ""
+    },
+    {
       "date": "11.04.2025",
       "added": [
         "6 New Cases: Added 6 new cases from 2 servers",
