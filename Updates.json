@@ -6,7 +6,8 @@
       "added": [
         "1 New Case: Added 1 new cases from 1 server",
         "Scam Awareness: Added new scam awareness page",
-        "ID Fetcher Tool: Added new tool to automatically update the Discord-IDs.json filter dataset."
+        "ID Fetcher Tool: Added new tool to automatically update the Discord-IDs.json filter dataset.",
+        "New Unified Tool: Added The the third unified tools that combine multiple tools into one, these are in the BETA stage at the moment."
       ],
       "updated": [
         "Sidebar Contents: Updated contents of the sidebar with the new page."
