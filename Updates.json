@@ -2,6 +2,20 @@
 
   "updates": [
     {
+      "date": "13.04.2025",
+      "added": [
+        "2 New Case: Added 2 new cases from 2 server",
+        "Scam Awareness: Added new scam awareness page"
+      ],
+      "updated": [
+        "Sidebar Contents: Updated contents of the sidebar with the new page."
+      ],
+      "removed": [
+        "News Page: Removed redundant news page because it didn't fit the theme of the site."
+      ],
+      "notes": ""
+    },
+    {
       "date": "12.04.2025",
       "added": [
         "9 New Case: Added 9 new cases from 2 server"
