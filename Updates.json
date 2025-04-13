@@ -10,7 +10,9 @@
         "New Unified Tool: Added The the third unified tools that combine multiple tools into one, these are in the BETA stage at the moment."
       ],
       "updated": [
-        "Sidebar Contents: Updated contents of the sidebar with the new page."
+        "Sidebar Contents: Updated contents of the sidebar with the new page.",
+        "Inspector Tool: Updated Inspector tool to fit with the new data format.",
+        "Home Page Stats: Updated the method home page stats are generated to be faster."
       ],
       "removed": [
         "News Page: Removed redundant news page because it didn't fit the theme of the site."
