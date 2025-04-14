@@ -12,7 +12,8 @@
       "updated": [
         "Sidebar Contents: Updated contents of the sidebar with the new page.",
         "Inspector Tool: Updated Inspector tool to fit with the new data format.",
-        "Home Page Stats: Updated the method home page stats are generated to be faster."
+        "Home Page Stats: Updated the method home page stats are generated to be faster.",
+        "Resource Center: Updated resource center page to include useful filters for Discord's Automod."
       ],
       "removed": [
         "News Page: Removed redundant news page because it didn't fit the theme of the site."
